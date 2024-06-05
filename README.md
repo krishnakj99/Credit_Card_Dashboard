@@ -1,2 +1,2 @@
 # Credit_Card_Dashboard
-2 Dashboards have been created from credit card raw data.
+I have created 2comprehensive credit card weekly dashboards that provides real-time insights into key performance metrics and trends,enabling user to monitor and analyze credit card operations effectively.
